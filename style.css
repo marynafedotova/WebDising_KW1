@@ -1,0 +1,67 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Gugi&family=Montserrat:ital,wght@0,100;1,200;1,300;1,400&family=Nunito+Sans:ital,opsz,wght@0,6..12,200;0,6..12,300;0,6..12,400;0,6..12,500;0,6..12,700;0,6..12,800;0,6..12,900;0,6..12,1000;1,6..12,300;1,6..12,400;1,6..12,500;1,6..12,600;1,6..12,700;1,6..12,800;1,6..12,900;1,6..12,1000&family=Roboto:wght@100&display=swap');
+ body {
+margin: 5px;
+ }
+p {
+    text-align:center;
+    font-size:30px;
+    background-color:FireBrick;
+    color:white;
+    }
+ol {
+    text-align:center;
+    color:FireBrick;
+    font-size:30px;
+    line-height:150%;
+    list-style:none;
+    font-weight:bold;
+    }
+nav {
+    align-content: center;
+    text-align: center;
+    background-color: #b22222;
+}
+a {
+    padding: 24px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-size: 24px;
+}
+a:hover {
+    color: yellow;
+}
+a:active{
+    color: green;
+}
+h2 {
+    color: #FFA07A;
+    font-size: 50px;
+    text-align: center;
+}
+.name {
+    font-family: Gugi;
+    background-color: white;
+    color: FireBrick;
+
+}
+.text {
+    color: yellow;
+    font-style: italic;
+    font-size: 20px;
+}
+img {
+    width: 150px;
+    margin-right: 5px;
+    float: left;
+}
+h3 {
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
+.text2 {
+    text-align: justify;
+    font-size: 16px;
+}
